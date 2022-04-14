@@ -1,0 +1,3 @@
+
+CREATE DATABASE MySQL_Product
+go
